@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arobert-s, self-taught software engineer from Chile
 - 👀 I’m interested in learning, education, liberal arts and music 
-- 🌱 I’m currently building a 3d library
+- 🌱 I’m currently into Data Engineering
 - 💞️ I’m looking to collaborate on projects related to education, edtech and personal development
 - 📫 How to reach me: email to alrobertserpell@gmail.com
 
